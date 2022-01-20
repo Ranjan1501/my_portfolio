@@ -1,14 +1,27 @@
 .logo {
   width: 25%;
 }
+.name {
+  font-style: italic;
+  color: #24a19c;
+}
+.link {
+  margin-right: 5%;
+}
 
 .nav-theme {
-  background: linear-gradient(to right, #f0c27b, #4b1248);
+  /* background: linear-gradient(to right, #325288,white); */
+  background-color: #325288;
   font-size: 20px;
   box-shadow: 0 0 15px;
+  /* margin-right: 1%; */
 }
 .nav-theme a {
-  color: white !important;
+  color: #faeee7 !important;
+}
+.logo {
+  width: 80px;
+  height: 60px;
 }
 
 .animate-navbar {
