@@ -12,9 +12,9 @@ const MyNavbar = () => {
         expand="md"
         className="animate-navbar nav-theme justify-content-between"
       >
-        <div style={{ marginLeft: "0px", marginRight: "2px" }}>
+        <div style={{ marginLeft: "0px", marginRight: "5px" }}>
           <Navbar.Brand href="#home">
-            <img className="logo w-20 logo " src={Logo} alt="logo" />
+            <img className="logo w-40 logo " src={Logo} alt="logo" />
             {/* <h3 className="name">  Ranjan  </h3> */}
           </Navbar.Brand>
         </div>
