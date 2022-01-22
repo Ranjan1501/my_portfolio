@@ -2,6 +2,7 @@ import React from "react";
 import "./Home.css";
 import { TypingTitle } from "./TypingTitle";
 // import Nav from "react-bootstrap/Nav";
+import image from "../../assets/images/TechPic/Profile_pic.png";
 
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GitHubIcon from "@material-ui/icons/GitHub";
@@ -15,10 +16,7 @@ function Home() {
             <div className="home-img ">
               <div className="img-box shadow image">
                 {/* <img src="https://i.ibb.co/NsKFqMR/original-pic-1.jpg" alt="profile-pic" /> */}
-                <img
-                  src="https://user-images.githubusercontent.com/91541289/150359375-7038ce19-d796-4b26-90a0-3e383b998165.png"
-                  alt="profile-pic"
-                />
+                <img src={image} alt="profile-pic" />
               </div>
             </div>
             <div className="home-text " style={{ color: "#F6F6F6" }}>
