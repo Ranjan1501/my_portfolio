@@ -29,7 +29,7 @@ export const projects = [
       "                                             Tech Stack: Ejs, HTML, CSS, Javascript, MongoDB, ExpressJs, NodeJs, Mongoose",
     ],
     github_link: "https://github.com/yashraj-m/ZoomCar-backend",
-    deployed_link: "zoomcar-backend.herokuapp.com/",
+    deployed_link: "https://zoomcar-backend.herokuapp.com/",
     //  technologies: [EJS, CSS3, JAVASCRIPT, NODE_JS, MONGODB],
     Tech_Stacks: "Ejs, JavaScript, MongoDB, ExpressJs, NodeJs, Mongoose",
   },
