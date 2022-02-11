@@ -12,6 +12,7 @@
 // import JAVASCRIPT from "../../assets/images/TechPic/js.svg";
 import ZoomCar from "../../assets/images/TechPic/zoomcar.png";
 import Shein from "../../assets/images/TechPic/Shein.png";
+import BookMyShow from "../../assets/images/TechPic/bookMyShow.jpg";
 
 // import shoes4us from "../../assets/images/TechPic/shoes4us.png";
 // import fatsecret from "../../assets/images/TechPic/fatsecret.png";
@@ -48,6 +49,23 @@ export const projects = [
     deployed_link: "https://sheinclone.netlify.app",
     //  technologies: [HTML5, CSS3, JAVASCRIPT, REACT],
   },
+
+  {
+    project_name: "BookMyShow",
+    project_image: BookMyShow,
+    Project_description: [
+      " A Web Application for tickets sales for movies, show, plays, concerts, sporting Events via online Platform",
+      "Provide tickets booking for movies, show, plays etc. for available screening time",
+      "Google auth for login no with google security.",
+      "Paytm Payment gateway for secure and safe payment",
+      "  ",
+      "  Tech Stack: ReactJs, Tailwind CSS, HTML, Javascript, MongoDb, NodeJs, ExpressJs, Mongoose",
+    ],
+    github_link: "https://github.com/Ranjan1501/book-my-show-clone",
+    deployed_link: "https://bookmyshow01.netlify.app/",
+    //  technologies: [HTML5, CSS3, JAVASCRIPT, REACT],
+  },
+
   //   {
   //     project_name: "Online Editor",
   //     project_image: onlineEditor,
