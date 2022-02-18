@@ -62,7 +62,7 @@ export const projects = [
       "  Tech Stack: ReactJs, Tailwind CSS, HTML, Javascript, MongoDb, NodeJs, ExpressJs, Mongoose",
     ],
     github_link: "https://github.com/Ranjan1501/book-my-show-clone",
-    deployed_link: "bookmyshow03.netlify.app",
+    deployed_link: "https://bookmyshow03.netlify.app",
     //  technologies: [HTML5, CSS3, JAVASCRIPT, REACT],
   },
 
