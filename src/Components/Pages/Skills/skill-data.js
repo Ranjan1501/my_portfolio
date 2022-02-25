@@ -8,6 +8,7 @@ import L_GIT from "../../assets/images/TechPic/git.svg";
 import L_JAVASCRIPT from "../../assets/images/TechPic/js.svg";
 import L_DSA from "../../assets/images/TechPic/DSA.svg";
 import L_EJS from "../../assets/images/TechPic/ejs-svgrepo-com.svg";
+import L_EXPRESS from "../../assets/images/TechPic/expressjs.svg";
 
 export const skills = {
   frontend: [
@@ -54,21 +55,21 @@ export const skills = {
       skillName: "MongoDB",
     },
     {
-      link: "https://www.mongodb.com/",
+      link: "https://git-scm.com/",
       imgAltText: "GIT",
       imgSrc: L_GIT,
       skillName: "GIT",
     },
 
     {
-      link: "https://www.mongodb.com/",
-      imgAltText: "DSA",
-      imgSrc: L_DSA,
-      skillName: "DSA",
+      link: "https://expressjs.com/",
+      imgAltText: "Express",
+      imgSrc: L_EXPRESS,
+      skillName: "Express Js",
     },
 
     {
-      link: "https://www.mongodb.com/",
+      link: "https://ejs.co/",
       imgAltText: "EJs",
       imgSrc: L_EJS,
       skillName: "EJS",
