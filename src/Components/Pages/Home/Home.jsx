@@ -29,7 +29,7 @@ function Home() {
               <div className="about-me-div">
                 <div className="about-me-btn">
                   <a
-                    href="https://drive.google.com/file/d/1nz832GQQga4pZNPuQBrgPwiObyuli2cd/view?usp=sharing"
+                    href="https://drive.google.com/drive/folders/1UZftKAAPyOW6uRM1eKVdpHAuLaZz8Th-?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
