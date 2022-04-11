@@ -11,7 +11,7 @@ const TypingTitle = () => {
               "Full Stack Web Developer",
               "Front End Developer",
               "Backend Developer",
-              "MERN Stack",
+              "MERN Stack Developer",
             ],
             autoStart: true,
             loop: true,
