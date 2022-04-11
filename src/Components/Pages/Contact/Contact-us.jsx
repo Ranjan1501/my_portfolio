@@ -40,7 +40,7 @@ const Contacts = () => {
                   <Form.Label>Full Name</Form.Label>
                   <Form.Control
                     type="text"
-                    placeholder="Mr. XXX"
+                    placeholder="Ranjan Kumar Thakur "
                     name="user_name"
                     required
                   />
@@ -49,7 +49,7 @@ const Contacts = () => {
                   <Form.Label>Mobile</Form.Label>
                   <Form.Control
                     type="text"
-                    placeholder="+91 XXXXXXXXX"
+                    placeholder="+91 8920279634"
                     name="contact_number"
                     required
                   />
@@ -58,7 +58,7 @@ const Contacts = () => {
                   <Form.Label>Email address</Form.Label>
                   <Form.Control
                     type="email"
-                    placeholder="example@mail.com"
+                    placeholder="ranjankumar1757@gmail.com"
                     name="user_email"
                     required
                   />
@@ -69,6 +69,7 @@ const Contacts = () => {
                   <Form.Control
                     as="textarea"
                     name="message"
+                    placeholder="Hi, Love to hear from you."
                     rows={3}
                     required
                   />
@@ -81,10 +82,7 @@ const Contacts = () => {
           </Col>
         </Row>
         <Row className="d-flex justify-content-center">
-          <p className="pt-3 text-center ">
-            {/* @Copy-Right 2021 Rohan Ranjan */}
-            Made with ❤️ India.
-          </p>
+          <p className="pt-3 text-center ">Made with ❤️ India.</p>
         </Row>
       </Container>
     </div>
