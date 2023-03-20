@@ -20,7 +20,10 @@ function Home() {
             </div>
             <div className="home-text " style={{ color: "#F6F6F6" }}>
               <h3>Hi,</h3>
-              <h3>I'm Ranjan Kumar Thakur</h3>
+              <h3>
+                I'm Ranjan Kumar Thakur, Working at Quintype Technologies Pvt.
+                Ltd.
+              </h3>
               <h1 className="title">
                 <TypingTitle />
               </h1>
