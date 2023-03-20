@@ -7,15 +7,10 @@ const TypingTitle = () => {
       <div className="sub" style={{ color: "#F6F6F6" }}>
         <Typewriter
           options={{
-            strings: [
-              "Full Stack Web Developer",
-              "Front End Developer",
-              "Backend Developer",
-              "MERN Stack Developer",
-            ],
+            strings: ["Software Development Enginner", "Backend Developer"],
             autoStart: true,
             loop: true,
-            delay: 60,
+            delay: 45,
           }}
         />
       </div>
