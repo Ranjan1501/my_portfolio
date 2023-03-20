@@ -2,7 +2,7 @@ import React from "react";
 import "./Home.css";
 import { TypingTitle } from "./TypingTitle";
 // import Nav from "react-bootstrap/Nav";
-import image from "../../assets/images/TechPic/Profile_pic.png";
+import image from "../../assets/images/TechPic/Ranjan_Crop.jpeg";
 
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GitHubIcon from "@material-ui/icons/GitHub";
@@ -15,7 +15,6 @@ function Home() {
           <div className="row full-screen ">
             <div className="home-img ">
               <div className="img-box shadow image">
-                {/* <img src="https://i.ibb.co/NsKFqMR/original-pic-1.jpg" alt="profile-pic" /> */}
                 <img src={image} alt="profile-pic" />
               </div>
             </div>
@@ -29,7 +28,7 @@ function Home() {
               <div className="about-me-div">
                 <div className="about-me-btn">
                   <a
-                    href="https://drive.google.com/drive/folders/1UZftKAAPyOW6uRM1eKVdpHAuLaZz8Th-?usp=sharing"
+                    href="https://drive.google.com/file/d/1ZetCcd23h7o1Dfsnw0mUBIeFbwGwcrVd/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
