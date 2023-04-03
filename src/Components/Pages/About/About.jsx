@@ -17,7 +17,11 @@ const About = () => {
 
           <div className="about-info">
             <p>
-              <h6>Hi! I'm Ranjan Kumar Thakur</h6>
+              <h6>Hi, I'm Ranjan Kumar Thakur</h6>
+              I am working at Quintype Technlogies Pvt.Ltd who provide digital
+              publishing platform. I am working here as Software Development
+              Engineer.
+              <br />
               Dedicated, Open-minded and Self Motivated, developer with a keen
               interest in software development.
               <br />
@@ -45,7 +49,7 @@ const About = () => {
               </div>
               <div className="about-desc-icon">
                 <LocationOnIcon />
-                <sapn className="about-desc-span">New Delhi, Delhi</sapn>
+                <sapn className="about-desc-span">Bangalore, Karnataka</sapn>
               </div>
             </div>
           </div>
