@@ -31,7 +31,7 @@ function Home() {
               <div className="about-me-div">
                 <div className="about-me-btn">
                   <a
-                    href="https://drive.google.com/file/d/1ZetCcd23h7o1Dfsnw0mUBIeFbwGwcrVd/view?usp=sharing"
+                    href="https://drive.google.com/drive/folders/1LsOGk_j2_mOz1m09nzLR_DLQl0qse-tS?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
