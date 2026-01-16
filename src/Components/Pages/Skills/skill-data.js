@@ -8,7 +8,6 @@ import L_JAVASCRIPT from "../../assets/images/TechPic/js.svg";
 import L_EJS from "../../assets/images/TechPic/ejs-svgrepo-com.svg";
 import L_EXPRESS from "../../assets/images/TechPic/expressjs.svg";
 import typescript from "../../assets/images/TechPic/typescript.svg";
-import php from "../../assets/images/TechPic/php.svg";
 import postgresql from "../../assets/images/TechPic/postgresql.svg";
 import phpMyAdmin from "../../assets/images/TechPic/phpmyadmin.svg";
 import docker from "../../assets/images/TechPic/docker.svg";
