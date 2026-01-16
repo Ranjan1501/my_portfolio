@@ -120,3 +120,45 @@
     margin-top: 3%;
   }
 }
+
+.aws-section {
+  background: linear-gradient(135deg, #ff9900, #ffc107);
+  padding: 30px;
+  border-radius: 10px;
+  margin: 20px 0;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.aws-section h4 {
+  color: white !important;
+  font-weight: 700;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.aws-skills {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  width: 100%;
+}
+
+.aws-skill-item {
+  background-color: white;
+  padding: 15px 20px;
+  border-radius: 8px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  font-weight: 600;
+  color: #232f3e;
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+
+.aws-skill-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+  background-color: #ff9900;
+  color: white;
+}

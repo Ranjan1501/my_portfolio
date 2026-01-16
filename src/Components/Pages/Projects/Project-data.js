@@ -1,8 +1,6 @@
-
 import ZoomCar from "../../assets/images/TechPic/zoomcar.png";
 import Shein from "../../assets/images/TechPic/Shein.png";
 import BookMyShow from "../../assets/images/TechPic/bookMyShow.jpg";
-
 
 export const projects = [
   {
@@ -49,6 +47,4 @@ export const projects = [
     deployed_link: "https://bookmyshow02.netlify.app/",
     //  technologies: [HTML5, CSS3, JAVASCRIPT, REACT],
   },
-
-
 ];

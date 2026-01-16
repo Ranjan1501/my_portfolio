@@ -18,7 +18,7 @@ const About = () => {
           <div className="about-info">
             <p>
               <h6>Hi, I'm Ranjan Kumar Thakur</h6>
-              I am working at Nielsem Media India Pvt. Ltd. I am working as a
+              I am working at Nielsen Media India Pvt. Ltd. I am working as a
               Software Engineer II with audience measurment vertical. Nielsen is
               a global leader in audience measurement, data and analytics,
               shaping the future of media. Measuring behavior across all

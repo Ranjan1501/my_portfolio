@@ -9,8 +9,7 @@ import Fade from "react-reveal/Fade";
 import { Skills } from "./Components/Pages/Skills/Skills";
 import { Project } from "./Components/Pages/Projects/Project";
 import { Contacts } from "./Components/Pages/Contact/Contact-us";
-// import TestTimeline, { TestTimeline2 } from "./Components/Pages/TestTimeline";
-import { Demo } from "./Particle.jsx";
+
 function App() {
   return (
     <div className="App">
@@ -25,7 +24,7 @@ function App() {
           background: `linear-gradient(to right, #73c8a9, #373b44)`,
         }}
       >
-        <Demo />
+        {/* Particle animation temporarily disabled for compatibility */}
       </div>
       <Home />
       <div>

@@ -49,6 +49,9 @@ const Project = () => {
   return (
     <div id="projects">
       <h1 className="text-center font-details-b pb-4">PROJECTS</h1>
+      <p className="text-center text-muted mb-4" style={{ fontSize: "0.9em" }}>
+        Team Projects from Masai Curriculum
+      </p>
       <Grid container className="projects__wrapper" spacing={0}>
         {projects &&
           projects.map((project) => {
