@@ -21,8 +21,7 @@ function Home() {
             <div className="home-text " style={{ color: "#F6F6F6" }}>
               <h3>Hi,</h3>
               <h3>
-                I'm Ranjan Kumar Thakur, Working at Quintype Technologies Pvt.
-                Ltd.
+                I'm Ranjan Kumar Thakur, Working at Nielsen Media India Pvt. Ltd.
               </h3>
               <h1 className="title">
                 <TypingTitle />

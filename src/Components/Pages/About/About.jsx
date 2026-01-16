@@ -18,21 +18,29 @@ const About = () => {
           <div className="about-info">
             <p>
               <h6>Hi, I'm Ranjan Kumar Thakur</h6>
-              I am working at Quintype Technlogies Pvt.Ltd who provide digital
-              publishing platform. I am working here as Software Development
-              Engineer.
+              I am working at Nielsem Media India Pvt. Ltd. I am working as a
+              Software Engineer II with audience measurment vertical. Nielsen is
+              a global leader in audience measurement, data and analytics,
+              shaping the future of media. Measuring behavior across all
+              channels and platforms to discover what audiences love, we empower
+              our clients with trusted intelligence that fuels action.
               <br />
-              Dedicated, Open-minded and Self Motivated, developer with a keen
-              interest in software development.
+              Quick Learner, Team Player, Collaborative, Dedicated, Open-minded
+              and Self Motivated, developer with a keen interest in software
+              development.
               <br />
               I am a people friendly, calm and composed individual who thrives
               to work as team player to gain maximum outcome to solve the
               problems.
               <br />
-              My carrier objective are to learn the Frameworks, API, tech stacks
-              first as my role demands on which my organization is working and
-              implement the expertise and experience to lead my organization and
-              represent at apex level
+              My objective is to leverage my experience in
+              cloud-native microservices and data engineering to build scalable
+              backend systems that drive tangible business value. In my past
+              roles, I’ve successfully used technologies like Node.js, Java, and
+              AWS to drive 23% revenue growth and improve workflow efficiency by
+              33%. I am looking for a challenging SDE II role where I can
+              continue to architect high-performance solutions that solve
+              complex business problems.
               <br />
               <br />
             </p>
