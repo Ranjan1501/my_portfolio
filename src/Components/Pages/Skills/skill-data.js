@@ -6,7 +6,6 @@ import L_NODE_JS from "../../assets/images/TechPic/nodejs.svg";
 import L_MONGODB from "../../assets/images/TechPic/mongoDB.svg";
 // import L_GIT from "../../assets/images/TechPic/git.svg";
 import L_JAVASCRIPT from "../../assets/images/TechPic/js.svg";
-import L_DSA from "../../assets/images/TechPic/DSA.svg";
 import L_EJS from "../../assets/images/TechPic/ejs-svgrepo-com.svg";
 import L_EXPRESS from "../../assets/images/TechPic/expressjs.svg";
 import typescript from "../../assets/images/TechPic/typescript.svg";
