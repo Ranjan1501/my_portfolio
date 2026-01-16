@@ -1,5 +1,5 @@
 import React from "react";
-import Particles from "react-particles-js";
+import Particles from "react-particles";
 import part from "./particle.json"
 
 function Demo(){
@@ -7,7 +7,7 @@ function Demo(){
 
    return(
       <>
-      <Particles height = {"700px"} params = {part} />
+      <Particles id="tsparticles" options={part} height="700px" />
       </>
    )
 }
